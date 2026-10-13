@@ -11951,7 +11951,6 @@ user_proxy.initiate_chat(
 config_list = [
     {
         'model': 'gpt-4-0613',
-        'api_key': 'sk-REDACTED-EXAMPLE-KEY'
     }
 ]
 
