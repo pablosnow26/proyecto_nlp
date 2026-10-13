@@ -1,0 +1,18 @@
+# Datasets procesados (generados por implementacion_modulo_1.ipynb)
+# Se distribuyen como asset del Release en GitHub por su tamaño (>100 MB)
+processed_dataset/processed_dataset.csv
+processed_dataset/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
